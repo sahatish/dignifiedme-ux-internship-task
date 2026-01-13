@@ -6,7 +6,7 @@ is handled, and what UX patterns work or fail in reducing decision anxiety.
 
 ------------------------------------------------
 
-1. Toptal
+## 1. Toptal
 
 - First CTA: “Hire Top Talent” with an application-style flow
 - Trust design: Strong emphasis on vetting, exclusivity, and quality screening
@@ -16,7 +16,7 @@ is handled, and what UX patterns work or fail in reducing decision anxiety.
 
 ------------------------------------------------
 
-2. Upwork
+## 2. Upwork
 
 - First CTA: “Post a Job” or “Find Talent”
 - Trust design: Ratings, reviews, job success score
@@ -26,7 +26,7 @@ is handled, and what UX patterns work or fail in reducing decision anxiety.
 
 ------------------------------------------------
 
-3. Clutch
+## 3. Clutch
 
 - First CTA: “Find Companies” by service and location
 - Trust design: Verified reviews, case studies, client references
