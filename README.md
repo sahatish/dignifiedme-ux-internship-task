@@ -50,3 +50,19 @@ This platform is intended to support those decisions by providing structured, ci
 
 This case study focuses on UX thinking, decision-making, and clarity of flow rather than visual polish or full product implementation.
 
+------------------------------------------------
+
+## Assumptions
+
+The following assumptions were made to reduce ambiguity and keep the scope realistic. 
+These assumptions are based on the problem context and typical challenges faced by early-stage hardware startups.
+
+- Users are early-stage hardware or electronics founders, not large enterprises
+- Most users are first-time or early-time founders with limited hiring experience
+- Projects are in MVP, prototyping, or early production stages
+- Users prefer guided recommendations over open-ended search
+- City-based availability matters due to hardware coordination needs
+- Budgets and timelines are flexible but require clear expectations
+- Trust, accountability, and coordination are higher priorities than lowest cost
+
+
