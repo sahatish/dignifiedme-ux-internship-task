@@ -1,5 +1,5 @@
 
-Competitor Study
+## Competitor Study
 
 The following platforms were reviewed to understand how high-trust hiring and service discovery
 is handled, and what UX patterns work or fail in reducing decision anxiety.
