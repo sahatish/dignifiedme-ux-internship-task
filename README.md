@@ -6,7 +6,7 @@ City-Based Cluster + Marketplace Platform (UI/UX Case Study)
 
 ---
 
-##1. Problem Overview
+## 1. Problem Overview
 
 Early-stage electronics and hardware startups often face a major gap between having an idea and executing it successfully.  
 The difficulty is rarely just about finding people, it’s about understanding *who* to hire, *how* to evaluate quality, and *how* to move forward with confidence.
@@ -15,7 +15,7 @@ Founders are required to make high-impact decisions involving cost, timelines, a
 This platform is intended to support those decisions by providing structured, city-based recommendations, vetted talent options, and clear execution paths.
 
 ---
-##2. Target Users
+## 2. Target Users
 
 - Founders of early-stage electronics or hardware startups  
 - Non-technical or partially technical founders  
@@ -25,7 +25,7 @@ This platform is intended to support those decisions by providing structured, ci
 
 ---
 
- ##3. Core User Problems
+ ## 3. Core User Problems
 
 - Lack of clarity on which technical roles are required at different stages  
 - Uncertainty about choosing between individual freelancers and full execution teams  
@@ -36,7 +36,7 @@ This platform is intended to support those decisions by providing structured, ci
 
 ---
 
- ##4. What Success Looks Like for the User
+ ## 4. What Success Looks Like for the User
 
 - The user clearly understands whether they need a single expert or a coordinated team  
 - The platform reduces decision fatigue by recommending only relevant options  
@@ -46,7 +46,7 @@ This platform is intended to support those decisions by providing structured, ci
 
 ---
 
- ##Note
+ ## Note
 
 This case study focuses on UX thinking, decision-making, and clarity of flow rather than visual polish or full product implementation.
 
